@@ -1,0 +1,2 @@
+# shashlyki
+Bot for Telegram
