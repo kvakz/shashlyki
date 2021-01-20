@@ -4,7 +4,7 @@ import telebot
 from telebot import types
 import requests
 
-bot = telebot.AsyncTeleBot('1480925538:AAFwnCellUA8ZzDnOcDCK_SdgetD_CgDUkU')
+bot = telebot.AsyncTeleBot('token')
 city_id = 0
 appid = "4070a5a915f343711da0bf93f2c481f6"
 txt = ''
